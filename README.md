@@ -1,1 +1,7 @@
 # LED_Matrix
+
+5V	VCC
+GND	GND
+D2 MOSI	DIN
+D5 CS	CS
+D4 SCK	CLK
